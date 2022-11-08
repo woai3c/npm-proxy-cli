@@ -8,7 +8,7 @@ npm i -g npm-proxy-cli
 设置代理地址
 ```shell
 nrp registry [url]
-# nrp registry http://127.0.0.1:58591
+# example: nrp registry http://127.0.0.1:58591
 ```
 开启代理
 ```shell
