@@ -22,4 +22,6 @@ nrp close
 ```sh
 # 查看当前 ip
 curl myip.ipip.net
+# or
+curl cip.cc
 ```
